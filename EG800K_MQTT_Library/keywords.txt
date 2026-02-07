@@ -1,0 +1,21 @@
+#######################################
+# Datatypes (Color: Orange)
+#######################################
+
+EG800K_MQTT	KEYWORD1
+
+#######################################
+# Methods and Functions (Color: Blue)
+#######################################
+
+SetSerial	KEYWORD2
+setServer	KEYWORD2
+setCallback	KEYWORD2
+begin	KEYWORD2
+isNetworkReady	KEYWORD2
+connect	KEYWORD2
+publish	KEYWORD2
+subscribe	KEYWORD2
+getGPS	KEYWORD2
+loop	KEYWORD2
+connected	KEYWORD2
